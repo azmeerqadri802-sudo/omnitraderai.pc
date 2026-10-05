@@ -1,0 +1,12 @@
+PyQt5>=5.15.11
+fastapi>=0.115
+uvicorn>=0.34
+websockets>=14
+python-binance>=1.0.29
+yfinance>=0.2.54
+google-generativeai>=0.8.4
+pillow>=11
+pandas>=2.2
+keyring>=25.6
+pywin32>=306; sys_platform == "win32"
+pyinstaller>=6.11
